@@ -1,0 +1,2678 @@
+[
+  {
+    "id": 1000,
+    "question": "Which of the following elements has the highest electronegativity?",
+    "options": [
+      "Oxygen",
+      "Fluorine",
+      "Chlorine",
+      "Nitrogen"
+    ],
+    "answer": "Fluorine",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1001,
+    "question": "Which of the following is the correct electronic configuration of a Zn2+ ion?",
+    "options": [
+      "[Ar] 3d10",
+      "[Ne] 3s2 3p6",
+      "[Kr] 4d10",
+      "[Ar] 3d8"
+    ],
+    "answer": "[Ar] 3d10",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1002,
+    "question": "Which of the following elements is classified as a transition metal?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Sodium",
+      "Magnesium"
+    ],
+    "answer": "Iron",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1003,
+    "question": "What is the oxidation state of sulfur in sulfur dioxide (SO2)?",
+    "options": [
+      "+4",
+      "+2",
+      "0",
+      "-2"
+    ],
+    "answer": "+4",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1004,
+    "question": "Which of the following compounds is an example of a coordination compound?",
+    "options": [
+      "NaCl",
+      "CuSO4",
+      "Na2[Cu(CN)4]",
+      "Na2SO4"
+    ],
+    "answer": "Na2[Cu(CN)4]",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1005,
+    "question": "What is the atomic number of the element with the electron configuration [Ar] 4s2 3d10 4p5?",
+    "options": [
+      "19",
+      "35",
+      "53",
+      "37"
+    ],
+    "answer": "35",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1006,
+    "question": "Which of the following is the correct IUPAC name for FeCl3?",
+    "options": [
+      "Iron(III) chloride",
+      "Iron(II) chloride",
+      "Iron(IV) chloride",
+      "Iron(II) chloride"
+    ],
+    "answer": "Iron(III) chloride",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1007,
+    "question": "What is the shape of the molecule CO2?",
+    "options": [
+      "Linear",
+      "Trigonal planar",
+      "Tetrahedral",
+      "Bent"
+    ],
+    "answer": "Linear",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1008,
+    "question": "Which of the following elements has the largest atomic radius?",
+    "options": [
+      "Na",
+      "Mg",
+      "Al",
+      "Si"
+    ],
+    "answer": "Na",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1009,
+    "question": "Which of the following is not an allotrope of carbon?",
+    "options": [
+      "Diamond",
+      "Graphite",
+      "Buckminsterfullerene",
+      "Ozone"
+    ],
+    "answer": "Ozone",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1010,
+    "question": "Which of the following is the most common oxidation state of chlorine?",
+    "options": [
+      "-1",
+      "0",
+      "+1",
+      "+3"
+    ],
+    "answer": "-1",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1011,
+    "question": "What is the oxidation number of chromium in Cr2O7^2-?",
+    "options": [
+      "+3",
+      "+6",
+      "-2",
+      "0"
+    ],
+    "answer": "+6",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1012,
+    "question": "Which of the following elements belongs to the alkali metals?",
+    "options": [
+      "Magnesium",
+      "Lithium",
+      "Calcium",
+      "Sodium"
+    ],
+    "answer": "Lithium",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1013,
+    "question": "Which compound is an example of a Lewis acid?",
+    "options": [
+      "BF3",
+      "NH3",
+      "H2O",
+      "CH3OH"
+    ],
+    "answer": "BF3",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1014,
+    "question": "Which of the following is the correct electronic configuration for a Cl- ion?",
+    "options": [
+      "[Ne] 3s2 3p6",
+      "[Ar] 3s2 3p6",
+      "[Ne] 2s2 2p6",
+      "[Ne] 3s2 3p5"
+    ],
+    "answer": "[Ar] 3s2 3p6",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1015,
+    "question": "Which of the following is the correct IUPAC name for H2SO4?",
+    "options": [
+      "Sulfuric acid",
+      "Sulfurous acid",
+      "Hydrosulfuric acid",
+      "Sulfite acid"
+    ],
+    "answer": "Sulfuric acid",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1016,
+    "question": "Which of the following is the strongest acid?",
+    "options": [
+      "HCl",
+      "H2SO4",
+      "HNO3",
+      "HF"
+    ],
+    "answer": "H2SO4",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1017,
+    "question": "Which of the following compounds is an example of an ionic bond?",
+    "options": [
+      "NaCl",
+      "H2O",
+      "CO2",
+      "NH3"
+    ],
+    "answer": "NaCl",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1018,
+    "question": "Which of the following is a characteristic of transition metals?",
+    "options": [
+      "Have low melting points",
+      "Are poor conductors of heat",
+      "Form colored compounds",
+      "Do not form cations"
+    ],
+    "answer": "Form colored compounds",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1019,
+    "question": "Which of the following compounds is an example of a double bond?",
+    "options": [
+      "O2",
+      "N2",
+      "CO2",
+      "CH4"
+    ],
+    "answer": "CO2",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1020,
+    "question": "Which of the following molecules has a trigonal bipyramidal molecular geometry?",
+    "options": [
+      "SF6",
+      "PCl5",
+      "BF3",
+      "CH4"
+    ],
+    "answer": "PCl5",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1021,
+    "question": "What is the electron configuration for the element with atomic number 26 (Fe)?",
+    "options": [
+      "[Ar] 4s2 3d6",
+      "[Ar] 3d6 4s2",
+      "[Ne] 3s2 3p6",
+      "[Ar] 3d7 4s1"
+    ],
+    "answer": "[Ar] 4s2 3d6",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1022,
+    "question": "Which of the following compounds has a trigonal planar shape?",
+    "options": [
+      "NH3",
+      "BF3",
+      "CH4",
+      "PCl5"
+    ],
+    "answer": "BF3",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1023,
+    "question": "What is the bond order in the O2 molecule?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1024,
+    "question": "Which of the following compounds can act as a Lewis base?",
+    "options": [
+      "H2O",
+      "BF3",
+      "CO2",
+      "FeCl3"
+    ],
+    "answer": "H2O",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1025,
+    "question": "Which of the following molecules exhibits sp2 hybridization?",
+    "options": [
+      "CH4",
+      "C2H4",
+      "C2H2",
+      "NH3"
+    ],
+    "answer": "C2H4",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1026,
+    "question": "What is the correct IUPAC name of the compound with the formula Na2SO4?",
+    "options": [
+      "Sodium sulfate",
+      "Sodium bisulfate",
+      "Sodium thiosulfate",
+      "Sodium sulfite"
+    ],
+    "answer": "Sodium sulfate",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1027,
+    "question": "Which of the following elements is a noble gas?",
+    "options": [
+      "Neon",
+      "Nitrogen",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "answer": "Neon",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1028,
+    "question": "Which of the following is the most electronegative element?",
+    "options": [
+      "Fluorine",
+      "Chlorine",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "answer": "Fluorine",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1029,
+    "question": "Which of the following elements has the smallest atomic radius?",
+    "options": [
+      "Sodium",
+      "Magnesium",
+      "Aluminum",
+      "Silicon"
+    ],
+    "answer": "Silicon",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1030,
+    "question": "Which of the following is a characteristic of ionic compounds?",
+    "options": [
+      "They are good conductors of electricity in the solid state",
+      "They have low melting points",
+      "They are insoluble in water",
+      "They conduct electricity in molten or aqueous state"
+    ],
+    "answer": "They conduct electricity in molten or aqueous state",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1031,
+    "question": "Which of the following elements has an atomic number of 11?",
+    "options": [
+      "Na",
+      "K",
+      "Li",
+      "Mg"
+    ],
+    "answer": "Na",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1032,
+    "question": "Which of the following compounds is ionic?",
+    "options": [
+      "H2O",
+      "NaCl",
+      "CO2",
+      "CH4"
+    ],
+    "answer": "NaCl",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1033,
+    "question": "What is the oxidation number of sulfur in H2SO4?",
+    "options": [
+      "+4",
+      "+6",
+      "0",
+      "-2"
+    ],
+    "answer": "+6",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1034,
+    "question": "Which of the following compounds is an example of a non-polar molecule?",
+    "options": [
+      "CO2",
+      "H2O",
+      "NH3",
+      "SO2"
+    ],
+    "answer": "CO2",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1035,
+    "question": "Which of the following ions is most stable?",
+    "options": [
+      "Na+",
+      "O2-",
+      "Mg2+",
+      "Cl-"
+    ],
+    "answer": "Mg2+",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1036,
+    "question": "Which of the following compounds is not an example of a binary compound?",
+    "options": [
+      "NaCl",
+      "H2O",
+      "CaO",
+      "SO2"
+    ],
+    "answer": "SO2",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1037,
+    "question": "Which of the following elements forms an acidic oxide?",
+    "options": [
+      "Na",
+      "Mg",
+      "P",
+      "Ca"
+    ],
+    "answer": "P",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1038,
+    "question": "Which of the following molecules exhibits an octahedral geometry?",
+    "options": [
+      "SF6",
+      "PCl5",
+      "BF3",
+      "CH4"
+    ],
+    "answer": "SF6",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1039,
+    "question": "Which of the following is a property of a covalent bond?",
+    "options": [
+      "It involves the sharing of electrons",
+      "It involves the transfer of electrons",
+      "It is formed between metals",
+      "It forms between a metal and a non-metal"
+    ],
+    "answer": "It involves the sharing of electrons",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1040,
+    "question": "Which of the following elements has the highest ionization energy?",
+    "options": [
+      "Na",
+      "Mg",
+      "Al",
+      "Si"
+    ],
+    "answer": "Mg",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1041,
+    "question": "Which of the following compounds is a common oxidizing agent?",
+    "options": [
+      "K2Cr2O7",
+      "NaCl",
+      "H2O",
+      "NaOH"
+    ],
+    "answer": "K2Cr2O7",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1042,
+    "question": "Which of the following is a characteristic of a strong acid?",
+    "options": [
+      "It dissociates completely in water",
+      "It has a low pH",
+      "It has a high boiling point",
+      "It is a poor conductor of electricity"
+    ],
+    "answer": "It dissociates completely in water",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 1043,
+    "question": "Which of the following compounds is an example of a Lewis acid?",
+    "options": [
+      "BF3",
+      "NH3",
+      "CO2",
+      "H2O"
+    ],
+    "answer": "BF3",
+    "topic": "Inorganic Chemistry"
+  },
+  {
+    "id": 2000,
+    "question": "Which of the following has the highest dipole moment?",
+    "options": [
+      "Benzene",
+      "Phenol",
+      "Chlorobenzene",
+      "Nitrobenzene"
+    ],
+    "answer": "Nitrobenzene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2001,
+    "question": "What is the major product when ethyl bromide reacts with alcoholic KOH?",
+    "options": [
+      "Ethene",
+      "Ethane",
+      "Ethanol",
+      "Acetylene"
+    ],
+    "answer": "Ethene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2002,
+    "question": "In the reaction of toluene with chlorine in the presence of UV light, what is the major product?",
+    "options": [
+      "Benzyl chloride",
+      "Chlorotoluene",
+      "Dichloromethylbenzene",
+      "Benzene"
+    ],
+    "answer": "Benzyl chloride",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2003,
+    "question": "What is the product of the ozonolysis of ethene?",
+    "options": [
+      "Formaldehyde",
+      "Acetaldehyde",
+      "Acetic acid",
+      "Methanol"
+    ],
+    "answer": "Formaldehyde",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2004,
+    "question": "What type of isomerism is shown by 1-butanol and diethyl ether?",
+    "options": [
+      "Functional isomerism",
+      "Geometrical isomerism",
+      "Optical isomerism",
+      "Chain isomerism"
+    ],
+    "answer": "Functional isomerism",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2005,
+    "question": "What is the hybridization of the carbon atom in methane?",
+    "options": [
+      "sp3",
+      "sp2",
+      "sp",
+      "None"
+    ],
+    "answer": "sp3",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2006,
+    "question": "Which of the following reagents is used for the test of aldehydes?",
+    "options": [
+      "Tollen's reagent",
+      "Fehling's solution",
+      "Both A and B",
+      "None of the above"
+    ],
+    "answer": "Both A and B",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2007,
+    "question": "What is the major product in the nitration of benzene?",
+    "options": [
+      "Nitrobenzene",
+      "Phenol",
+      "Benzoic acid",
+      "Aniline"
+    ],
+    "answer": "Nitrobenzene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2008,
+    "question": "What is the IUPAC name of CH3CH=CH2?",
+    "options": [
+      "Propene",
+      "Propyne",
+      "Propane",
+      "Ethylene"
+    ],
+    "answer": "Propene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2009,
+    "question": "Which of the following compounds is aromatic?",
+    "options": [
+      "Cyclohexane",
+      "Benzene",
+      "Cyclobutene",
+      "Cyclopropane"
+    ],
+    "answer": "Benzene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2010,
+    "question": "Which of the following has the highest dipole moment?",
+    "options": [
+      "Benzene",
+      "Phenol",
+      "Chlorobenzene",
+      "Nitrobenzene"
+    ],
+    "answer": "Nitrobenzene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2011,
+    "question": "What is the major product when ethyl bromide reacts with alcoholic KOH?",
+    "options": [
+      "Ethene",
+      "Ethane",
+      "Ethanol",
+      "Acetylene"
+    ],
+    "answer": "Ethene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2012,
+    "question": "In the reaction of toluene with chlorine in the presence of UV light, what is the major product?",
+    "options": [
+      "Benzyl chloride",
+      "Chlorotoluene",
+      "Dichloromethylbenzene",
+      "Benzene"
+    ],
+    "answer": "Benzyl chloride",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2013,
+    "question": "What is the product of the ozonolysis of ethene?",
+    "options": [
+      "Formaldehyde",
+      "Acetaldehyde",
+      "Acetic acid",
+      "Methanol"
+    ],
+    "answer": "Formaldehyde",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2014,
+    "question": "What type of isomerism is shown by 1-butanol and diethyl ether?",
+    "options": [
+      "Functional isomerism",
+      "Geometrical isomerism",
+      "Optical isomerism",
+      "Chain isomerism"
+    ],
+    "answer": "Functional isomerism",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2015,
+    "question": "What is the hybridization of the carbon atom in methane?",
+    "options": [
+      "sp3",
+      "sp2",
+      "sp",
+      "None"
+    ],
+    "answer": "sp3",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2016,
+    "question": "Which of the following reagents is used for the test of aldehydes?",
+    "options": [
+      "Tollen's reagent",
+      "Fehling's solution",
+      "Both A and B",
+      "None of the above"
+    ],
+    "answer": "Both A and B",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2017,
+    "question": "What is the major product in the nitration of benzene?",
+    "options": [
+      "Nitrobenzene",
+      "Phenol",
+      "Benzoic acid",
+      "Aniline"
+    ],
+    "answer": "Nitrobenzene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2018,
+    "question": "What is the IUPAC name of CH3CH=CH2?",
+    "options": [
+      "Propene",
+      "Propyne",
+      "Propane",
+      "Ethylene"
+    ],
+    "answer": "Propene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2019,
+    "question": "Which of the following compounds is aromatic?",
+    "options": [
+      "Cyclohexane",
+      "Benzene",
+      "Cyclobutene",
+      "Cyclopropane"
+    ],
+    "answer": "Benzene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2020,
+    "question": "Which of the following compounds will not undergo electrophilic aromatic substitution?",
+    "options": [
+      "Benzene",
+      "Chlorobenzene",
+      "Nitrobenzene",
+      "Toluene"
+    ],
+    "answer": "Nitrobenzene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2021,
+    "question": "What is the correct IUPAC name for C6H5CH2OH?",
+    "options": [
+      "Phenol",
+      "Benzyl alcohol",
+      "Benzoic acid",
+      "Benzene-1,2-diol"
+    ],
+    "answer": "Benzyl alcohol",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2022,
+    "question": "Which of the following is a strong electrophile?",
+    "options": [
+      "Cl2",
+      "H2SO4",
+      "CH3Cl",
+      "NO2+"
+    ],
+    "answer": "NO2+",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2023,
+    "question": "What is the mechanism of the reaction between alkyl halides and KOH in alcoholic solution?",
+    "options": [
+      "SN1",
+      "SN2",
+      "E1",
+      "E2"
+    ],
+    "answer": "E2",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2024,
+    "question": "Which of the following is a characteristic reaction of aldehydes?",
+    "options": [
+      "Oxidation to carboxylic acids",
+      "Reduction to alcohols",
+      "Aldol condensation",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2025,
+    "question": "Which of the following is not an aromatic compound?",
+    "options": [
+      "Cyclohexene",
+      "Benzene",
+      "Toluene",
+      "Napthalene"
+    ],
+    "answer": "Cyclohexene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2026,
+    "question": "What is the main product when an alkyl halide undergoes a reaction with sodium in dry ether?",
+    "options": [
+      "Alkene",
+      "Alkane",
+      "Alkyne",
+      "Cycloalkane"
+    ],
+    "answer": "Alkane",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2027,
+    "question": "Which of the following compounds is an example of an enol?",
+    "options": [
+      "Acetone",
+      "Ethanol",
+      "Acetaldehyde",
+      "Vinyl alcohol"
+    ],
+    "answer": "Vinyl alcohol",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2028,
+    "question": "What is the name of the compound formed when 1-butyne is treated with HCl?",
+    "options": [
+      "Butane",
+      "Butene",
+      "Butyne",
+      "1-Chlorobutane"
+    ],
+    "answer": "1-Chlorobutane",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2029,
+    "question": "What is the order of reactivity of alkyl halides in nucleophilic substitution reactions?",
+    "options": [
+      "Tertiary > Secondary > Primary",
+      "Primary > Secondary > Tertiary",
+      "Secondary > Primary > Tertiary",
+      "None of the above"
+    ],
+    "answer": "Tertiary > Secondary > Primary",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2030,
+    "question": "Which of the following is a correct mechanism for the formation of tert-butyl carbocation?",
+    "options": [
+      "SN1",
+      "SN2",
+      "E1",
+      "E2"
+    ],
+    "answer": "SN1",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2031,
+    "question": "Which of the following is an example of an electrophilic addition reaction?",
+    "options": [
+      "Hydration of alkene",
+      "Hydrohalogenation of alkene",
+      "Ozonolysis of alkene",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2032,
+    "question": "What is the name of the reaction in which alkynes react with H2 in the presence of a catalyst to form alkenes?",
+    "options": [
+      "Hydrogenation",
+      "Halogenation",
+      "Hydration",
+      "Ozonolysis"
+    ],
+    "answer": "Hydrogenation",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2033,
+    "question": "What is the major product when propene undergoes hydroboration-oxidation?",
+    "options": [
+      "Propanol",
+      "Propyne",
+      "Propene-2-ol",
+      "2-Butanol"
+    ],
+    "answer": "Propanol",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2034,
+    "question": "Which of the following compounds undergoes electrophilic substitution more readily?",
+    "options": [
+      "Benzene",
+      "Chlorobenzene",
+      "Bromobenzene",
+      "Toluene"
+    ],
+    "answer": "Toluene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2035,
+    "question": "Which of the following compounds is a strong nucleophile?",
+    "options": [
+      "Water",
+      "Alcohol",
+      "Hydroxide ion",
+      "Chlorine"
+    ],
+    "answer": "Hydroxide ion",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2036,
+    "question": "Which of the following compounds is formed by the reaction of a primary alcohol with PCC?",
+    "options": [
+      "Aldehyde",
+      "Ketone",
+      "Carboxylic acid",
+      "Alkene"
+    ],
+    "answer": "Aldehyde",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2037,
+    "question": "Which of the following is not a characteristic of an ideal electrophile?",
+    "options": [
+      "Electron deficient",
+      "Capable of forming a bond with a nucleophile",
+      "Electron rich",
+      "None of the above"
+    ],
+    "answer": "Electron rich",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2038,
+    "question": "Which of the following is the product when an alkene undergoes a reaction with H2SO4?",
+    "options": [
+      "Alcohol",
+      "Ether",
+      "Alkane",
+      "Alkyl sulfate"
+    ],
+    "answer": "Alcohol",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2039,
+    "question": "Which type of isomerism is observed in the compound CH3CH=CH2?",
+    "options": [
+      "Geometrical",
+      "Positional",
+      "Functional",
+      "Chain"
+    ],
+    "answer": "Geometrical",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2040,
+    "question": "Which of the following is the least reactive towards electrophilic aromatic substitution?",
+    "options": [
+      "Toluene",
+      "Chlorobenzene",
+      "Benzene",
+      "Nitrobenzene"
+    ],
+    "answer": "Nitrobenzene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2041,
+    "question": "Which of the following compounds undergoes electrophilic substitution more readily?",
+    "options": [
+      "Benzene",
+      "Chlorobenzene",
+      "Bromobenzene",
+      "Toluene"
+    ],
+    "answer": "Toluene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2042,
+    "question": "Which of the following compounds is a strong nucleophile?",
+    "options": [
+      "Water",
+      "Alcohol",
+      "Hydroxide ion",
+      "Chlorine"
+    ],
+    "answer": "Hydroxide ion",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2043,
+    "question": "Which of the following compounds is formed by the reaction of a primary alcohol with PCC?",
+    "options": [
+      "Aldehyde",
+      "Ketone",
+      "Carboxylic acid",
+      "Alkene"
+    ],
+    "answer": "Aldehyde",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2044,
+    "question": "Which of the following is not a characteristic of an ideal electrophile?",
+    "options": [
+      "Electron deficient",
+      "Capable of forming a bond with a nucleophile",
+      "Electron rich",
+      "None of the above"
+    ],
+    "answer": "Electron rich",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2045,
+    "question": "Which of the following is the product when an alkene undergoes a reaction with H2SO4?",
+    "options": [
+      "Alcohol",
+      "Ether",
+      "Alkane",
+      "Alkyl sulfate"
+    ],
+    "answer": "Alcohol",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2046,
+    "question": "Which type of isomerism is observed in the compound CH3CH=CH2?",
+    "options": [
+      "Geometrical",
+      "Positional",
+      "Functional",
+      "Chain"
+    ],
+    "answer": "Geometrical",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2047,
+    "question": "Which of the following is the least reactive towards electrophilic aromatic substitution?",
+    "options": [
+      "Toluene",
+      "Chlorobenzene",
+      "Benzene",
+      "Nitrobenzene"
+    ],
+    "answer": "Nitrobenzene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2048,
+    "question": "Which reagent is used in the reduction of aldehydes to primary alcohols?",
+    "options": [
+      "LiAlH4",
+      "NaBH4",
+      "H2",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2049,
+    "question": "What is the IUPAC name of C6H5COOH?",
+    "options": [
+      "Benzaldehyde",
+      "Benzoic acid",
+      "Phenol",
+      "Benzyl alcohol"
+    ],
+    "answer": "Benzoic acid",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2050,
+    "question": "Which of the following compounds is aromatic?",
+    "options": [
+      "Cyclohexane",
+      "Benzene",
+      "Cyclobutene",
+      "Cyclopropane"
+    ],
+    "answer": "Benzene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2051,
+    "question": "What is the major product in the electrophilic aromatic substitution of chlorobenzene with bromine?",
+    "options": [
+      "Bromobenzene",
+      "Chlorobenzene",
+      "1-Bromo-2-chlorobenzene",
+      "3-Bromo-2-chlorobenzene"
+    ],
+    "answer": "1-Bromo-2-chlorobenzene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2052,
+    "question": "Which of the following compounds undergoes nucleophilic substitution at the fastest rate?",
+    "options": [
+      "Methyl chloride",
+      "Ethyl chloride",
+      "Chlorobenzene",
+      "Benzyl chloride"
+    ],
+    "answer": "Benzyl chloride",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2053,
+    "question": "What is the major product when a benzyl halide undergoes nucleophilic substitution with sodium hydroxide?",
+    "options": [
+      "Benzyl alcohol",
+      "Benzene",
+      "Benzyl chloride",
+      "Phenol"
+    ],
+    "answer": "Benzyl alcohol",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2054,
+    "question": "What type of isomerism is shown by butane and isobutane?",
+    "options": [
+      "Positional isomerism",
+      "Chain isomerism",
+      "Functional isomerism",
+      "Geometrical isomerism"
+    ],
+    "answer": "Chain isomerism",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2055,
+    "question": "Which of the following compounds can undergo an electrophilic addition reaction?",
+    "options": [
+      "Benzene",
+      "Cyclohexane",
+      "Ethene",
+      "Methane"
+    ],
+    "answer": "Ethene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2056,
+    "question": "What is the product when an alkene undergoes ozonolysis?",
+    "options": [
+      "Aldehyde",
+      "Carboxylic acid",
+      "Ketone",
+      "Alcohol"
+    ],
+    "answer": "Aldehyde",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2057,
+    "question": "Which compound is an example of a conjugated diene?",
+    "options": [
+      "1,3-Butadiene",
+      "Cyclohexene",
+      "Cycloheptene",
+      "Toluene"
+    ],
+    "answer": "1,3-Butadiene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2058,
+    "question": "What is the major product in the hydrogenation of an alkene?",
+    "options": [
+      "Alkane",
+      "Alkene",
+      "Alcohol",
+      "Ketone"
+    ],
+    "answer": "Alkane",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2059,
+    "question": "Which of the following is the correct IUPAC name for CH3CH=CH2?",
+    "options": [
+      "Propene",
+      "Propyne",
+      "Ethene",
+      "Propane"
+    ],
+    "answer": "Propene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2060,
+    "question": "Which of the following compounds will undergo electrophilic substitution more readily?",
+    "options": [
+      "Benzene",
+      "Chlorobenzene",
+      "Nitrobenzene",
+      "Toluene"
+    ],
+    "answer": "Toluene",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2061,
+    "question": "What is the product when a tertiary alkyl halide reacts with sodium in dry ether?",
+    "options": [
+      "Alkene",
+      "Alkane",
+      "Alkyne",
+      "Cycloalkane"
+    ],
+    "answer": "Alkane",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2062,
+    "question": "What is the major product when an alkene reacts with Br2 in the presence of light?",
+    "options": [
+      "Alkyl bromide",
+      "Dibromoalkane",
+      "Alkene",
+      "Alcohol"
+    ],
+    "answer": "Dibromoalkane",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2063,
+    "question": "Which reagent is used for the detection of aldehydes?",
+    "options": [
+      "Tollen's reagent",
+      "Fehling's solution",
+      "Benedict's solution",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2064,
+    "question": "Which reaction involves the formation of a cyclic transition state?",
+    "options": [
+      "SN1",
+      "SN2",
+      "E1",
+      "E2"
+    ],
+    "answer": "SN2",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2065,
+    "question": "What is the main product when phenol reacts with bromine?",
+    "options": [
+      "Bromobenzene",
+      "2,4,6-Tribromophenol",
+      "Bromophenol",
+      "Phenol bromide"
+    ],
+    "answer": "2,4,6-Tribromophenol",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2066,
+    "question": "What is the product when an alkyl halide reacts with a strong base in a polar protic solvent?",
+    "options": [
+      "SN1",
+      "SN2",
+      "E1",
+      "E2"
+    ],
+    "answer": "E2",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2067,
+    "question": "What is the type of isomerism shown by but-2-ene and 2-butene?",
+    "options": [
+      "Geometrical",
+      "Positional",
+      "Functional",
+      "Chain"
+    ],
+    "answer": "Geometrical",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2068,
+    "question": "What is the correct product when an alkene undergoes a reaction with H2O and H2SO4?",
+    "options": [
+      "Alcohol",
+      "Ether",
+      "Alkane",
+      "Alkyl sulfate"
+    ],
+    "answer": "Alcohol",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2069,
+    "question": "What is the product when an alkene undergoes hydroboration-oxidation?",
+    "options": [
+      "Alcohol",
+      "Alkane",
+      "Aldehyde",
+      "Ketone"
+    ],
+    "answer": "Alcohol",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2070,
+    "question": "Which of the following compounds is the most stable?",
+    "options": [
+      "Cyclohexane",
+      "Cycloheptane",
+      "Cyclooctane",
+      "Cyclopropane"
+    ],
+    "answer": "Cyclohexane",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2071,
+    "question": "Which of the following reactions is characteristic of alcohols?",
+    "options": [
+      "Oxidation to aldehydes",
+      "Esterification",
+      "Hydration of alkenes",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2072,
+    "question": "What type of reaction involves the substitution of a leaving group by a nucleophile?",
+    "options": [
+      "Elimination",
+      "Addition",
+      "Substitution",
+      "Oxidation"
+    ],
+    "answer": "Substitution",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2073,
+    "question": "Which of the following reactions involves the formation of a carbocation?",
+    "options": [
+      "E2",
+      "SN2",
+      "E1",
+      "SN1"
+    ],
+    "answer": "SN1",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2074,
+    "question": "What is the type of isomerism observed in the compound 1,2-dichlorocyclohexane?",
+    "options": [
+      "Geometrical",
+      "Optical",
+      "Positional",
+      "Conformational"
+    ],
+    "answer": "Conformational",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 2075,
+    "question": "What is the product when a phenyl group is attached to a benzene ring?",
+    "options": [
+      "Benzene",
+      "Toluene",
+      "Diphenyl",
+      "Biphenyl"
+    ],
+    "answer": "Diphenyl",
+    "topic": "Organic Chemistry"
+  },
+  {
+    "id": 3000,
+    "question": "What is the ideal gas equation?",
+    "options": [
+      "PV = nRT",
+      "PV = k",
+      "P = Vn",
+      "RT = nP"
+    ],
+    "answer": "PV = nRT",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3001,
+    "question": "Which of the following has the highest boiling point?",
+    "options": [
+      "Water",
+      "Methane",
+      "Ethanol",
+      "Diethyl ether"
+    ],
+    "answer": "Water",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3002,
+    "question": "What is the value of the gas constant R in SI units?",
+    "options": [
+      "0.0821 atm·L/mol·K",
+      "8.314 J/mol·K",
+      "1.987 cal/mol·K",
+      "62.4 L·mmHg/mol·K"
+    ],
+    "answer": "8.314 J/mol·K",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3003,
+    "question": "Calculate the work done when 1 mole of an ideal gas expands isothermally from 1 L to 10 L at 300 K. (R = 8.314 J/mol·K)",
+    "options": [
+      "-5743 J",
+      "-830 J",
+      "-2300 J",
+      "-1728 J"
+    ],
+    "answer": "-5743 J",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3004,
+    "question": "Which thermodynamic property is extensive?",
+    "options": [
+      "Temperature",
+      "Pressure",
+      "Volume",
+      "Density"
+    ],
+    "answer": "Volume",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3005,
+    "question": "What is the equilibrium constant expression for the reaction: N2 + 3H2 ⇌ 2NH3?",
+    "options": [
+      "[NH3]^2 / ([N2][H2]^3)",
+      "[NH3] / ([N2][H2])",
+      "[N2][H2] / [NH3]",
+      "None of these"
+    ],
+    "answer": "[NH3]^2 / ([N2][H2]^3)",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3006,
+    "question": "What is the pH of a 0.01 M HCl solution?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": "2",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3007,
+    "question": "Which equation represents the relationship between Gibbs free energy and the equilibrium constant?",
+    "options": [
+      "ΔG° = -RT ln K",
+      "ΔG° = RT ln K",
+      "ΔG = ΔH - TΔS",
+      "None of these"
+    ],
+    "answer": "ΔG° = -RT ln K",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3008,
+    "question": "What is the unit of the rate constant for a second-order reaction?",
+    "options": [
+      "s^-1",
+      "mol/L·s",
+      "L/mol·s",
+      "mol·s"
+    ],
+    "answer": "L/mol·s",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3009,
+    "question": "For a zero-order reaction, the rate is:",
+    "options": [
+      "Independent of concentration",
+      "Directly proportional to concentration",
+      "Inversely proportional to concentration",
+      "None of these"
+    ],
+    "answer": "Independent of concentration",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3010,
+    "question": "Which thermodynamic law is the basis for the calculation of entropy changes?",
+    "options": [
+      "First law",
+      "Second law",
+      "Third law",
+      "Zeroth law"
+    ],
+    "answer": "Second law",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3011,
+    "question": "What is the term for the heat required to raise the temperature of one mole of a substance by one degree Celsius?",
+    "options": [
+      "Enthalpy",
+      "Entropy",
+      "Specific heat",
+      "Molar heat capacity"
+    ],
+    "answer": "Molar heat capacity",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3012,
+    "question": "Which of the following reactions is exothermic?",
+    "options": [
+      "Combustion of methane",
+      "Melting of ice",
+      "Evaporation of water",
+      "Electrolysis of water"
+    ],
+    "answer": "Combustion of methane",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3013,
+    "question": "What is the shape of the graph between ln k and 1/T for a chemical reaction?",
+    "options": [
+      "Parabola",
+      "Hyperbola",
+      "Straight line",
+      "Circular"
+    ],
+    "answer": "Straight line",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3014,
+    "question": "Which of the following has the lowest entropy?",
+    "options": [
+      "Ice",
+      "Liquid water",
+      "Water vapor",
+      "All have equal entropy"
+    ],
+    "answer": "Ice",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3015,
+    "question": "What does the van 't Hoff factor (i) signify in colligative properties?",
+    "options": [
+      "The ratio of moles of solute to solvent",
+      "The ratio of observed to expected colligative property values",
+      "The degree of ionization of solute",
+      "None of these"
+    ],
+    "answer": "The ratio of observed to expected colligative property values",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3016,
+    "question": "What is the significance of Hess's Law?",
+    "options": [
+      "Heat change is path-dependent",
+      "Heat change depends only on initial and final states",
+      "Heat is proportional to pressure",
+      "Heat does not depend on temperature"
+    ],
+    "answer": "Heat change depends only on initial and final states",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3017,
+    "question": "Which equation defines the relationship between the vapor pressure and temperature of a liquid?",
+    "options": [
+      "Clausius-Clapeyron equation",
+      "Arrhenius equation",
+      "Boyle's law",
+      "Dalton's law"
+    ],
+    "answer": "Clausius-Clapeyron equation",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3018,
+    "question": "Which is not a colligative property?",
+    "options": [
+      "Boiling point elevation",
+      "Freezing point depression",
+      "Vapor pressure lowering",
+      "Molarity"
+    ],
+    "answer": "Molarity",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3019,
+    "question": "What is the SI unit of entropy?",
+    "options": [
+      "J·mol^-1·K^-1",
+      "cal·mol^-1",
+      "J·mol^-1",
+      "K·mol^-1"
+    ],
+    "answer": "J·mol^-1·K^-1",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3020,
+    "question": "Which of the following is the expression for the rate constant of a first-order reaction?",
+    "options": [
+      "k = (2.303/t) log (a/(a - x))",
+      "k = (1/t) log (a/x)",
+      "k = (1/t) (a/x)",
+      "k = t^2 / (a - x)"
+    ],
+    "answer": "k = (2.303/t) log (a/(a - x))",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3021,
+    "question": "What is the term for the amount of heat required to convert one mole of a liquid into vapor without a temperature change?",
+    "options": [
+      "Heat of fusion",
+      "Heat of vaporization",
+      "Heat of sublimation",
+      "Heat of formation"
+    ],
+    "answer": "Heat of vaporization",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3022,
+    "question": "For a gas obeying Van der Waals equation, what does 'a' correct for?",
+    "options": [
+      "Intermolecular attractions",
+      "Molecular volume",
+      "Temperature effects",
+      "Compressibility factor"
+    ],
+    "answer": "Intermolecular attractions",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3023,
+    "question": "What is the value of ΔG for a spontaneous reaction at constant temperature and pressure?",
+    "options": [
+      "Positive",
+      "Negative",
+      "Zero",
+      "Cannot be determined"
+    ],
+    "answer": "Negative",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3024,
+    "question": "Which of the following laws explains the relationship between solubility and pressure?",
+    "options": [
+      "Henry's Law",
+      "Raoult's Law",
+      "Boyle's Law",
+      "Dalton's Law"
+    ],
+    "answer": "Henry's Law",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3025,
+    "question": "What does a negative enthalpy change indicate about a reaction?",
+    "options": [
+      "The reaction absorbs heat",
+      "The reaction releases heat",
+      "The reaction is at equilibrium",
+      "The reaction is non-spontaneous"
+    ],
+    "answer": "The reaction releases heat",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3026,
+    "question": "What is the relationship between the rate constant (k) and temperature (T) in the Arrhenius equation?",
+    "options": [
+      "k decreases as T increases",
+      "k increases exponentially with T",
+      "k remains constant as T increases",
+      "k is inversely proportional to T"
+    ],
+    "answer": "k increases exponentially with T",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3027,
+    "question": "What is the partial pressure of oxygen in a mixture of O2 and N2, if the mole fraction of oxygen is 0.3 and the total pressure is 1 atm?",
+    "options": [
+      "0.3 atm",
+      "0.7 atm",
+      "1 atm",
+      "0.5 atm"
+    ],
+    "answer": "0.3 atm",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3028,
+    "question": "What is the correct unit for molarity?",
+    "options": [
+      "mol/kg",
+      "mol/L",
+      "g/L",
+      "mol"
+    ],
+    "answer": "mol/L",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3029,
+    "question": "For an ideal gas, which property remains constant during an isothermal process?",
+    "options": [
+      "Temperature",
+      "Pressure",
+      "Volume",
+      "Internal energy"
+    ],
+    "answer": "Temperature",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3030,
+    "question": "Which of the following is true for a reaction with ΔH > 0 and ΔS > 0?",
+    "options": [
+      "Spontaneous at all temperatures",
+      "Non-spontaneous at all temperatures",
+      "Spontaneous at high temperatures",
+      "Spontaneous at low temperatures"
+    ],
+    "answer": "Spontaneous at high temperatures",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3031,
+    "question": "Which of the following is a state function?",
+    "options": [
+      "Work",
+      "Heat",
+      "Enthalpy",
+      "Energy change"
+    ],
+    "answer": "Enthalpy",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3032,
+    "question": "What is the name of the graph between pressure and volume for a gas at constant temperature?",
+    "options": [
+      "Isotherm",
+      "Adiabatic curve",
+      "Isochoric curve",
+      "Isobaric curve"
+    ],
+    "answer": "Isotherm",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3033,
+    "question": "Which is the correct relationship between Kp and Kc?",
+    "options": [
+      "Kp = Kc (RT)^Δn",
+      "Kp = Kc / (RT)^Δn",
+      "Kp = Kc * RT",
+      "Kp = Kc * T^Δn"
+    ],
+    "answer": "Kp = Kc (RT)^Δn",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3034,
+    "question": "Which of the following is NOT a colligative property?",
+    "options": [
+      "Boiling point elevation",
+      "Vapor pressure lowering",
+      "Osmotic pressure",
+      "Viscosity"
+    ],
+    "answer": "Viscosity",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3035,
+    "question": "What is the freezing point depression for a 1 molal solution of a non-volatile solute in water? (Kf = 1.86 °C·kg/mol)",
+    "options": [
+      "1.86 °C",
+      "3.72 °C",
+      "0.93 °C",
+      "1 °C"
+    ],
+    "answer": "1.86 °C",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3036,
+    "question": "The rate law for a reaction is Rate = k[A]^2[B]. What is the order of the reaction?",
+    "options": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "answer": "3",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3037,
+    "question": "What is the name of the process in which a solid changes directly into a gas?",
+    "options": [
+      "Sublimation",
+      "Vaporization",
+      "Condensation",
+      "Freezing"
+    ],
+    "answer": "Sublimation",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3038,
+    "question": "Which factor does NOT affect the rate of a chemical reaction?",
+    "options": [
+      "Temperature",
+      "Concentration",
+      "Catalyst",
+      "Color of reactants"
+    ],
+    "answer": "Color of reactants",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3039,
+    "question": "Which of the following is an example of an intensive property?",
+    "options": [
+      "Mass",
+      "Volume",
+      "Density",
+      "Length"
+    ],
+    "answer": "Density",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3040,
+    "question": "What is the unit of the rate constant for a first-order reaction?",
+    "options": [
+      "L/mol·s",
+      "s^-1",
+      "mol/L·s",
+      "mol·s^-1"
+    ],
+    "answer": "s^-1",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3041,
+    "question": "What is the term for the energy required to start a chemical reaction?",
+    "options": [
+      "Activation energy",
+      "Bond energy",
+      "Kinetic energy",
+      "Potential energy"
+    ],
+    "answer": "Activation energy",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3042,
+    "question": "The enthalpy change for the reaction H2(g) + 1/2 O2(g) → H2O(l) is called:",
+    "options": [
+      "Heat of formation",
+      "Heat of combustion",
+      "Heat of vaporization",
+      "Heat of fusion"
+    ],
+    "answer": "Heat of formation",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3043,
+    "question": "Which type of solution is formed when a solid dissolves in a liquid?",
+    "options": [
+      "Homogeneous",
+      "Heterogeneous",
+      "Colloidal",
+      "Suspension"
+    ],
+    "answer": "Homogeneous",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3044,
+    "question": "Which of the following is the unit of molality?",
+    "options": [
+      "mol/L",
+      "mol/kg",
+      "kg/mol",
+      "g/L"
+    ],
+    "answer": "mol/kg",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3045,
+    "question": "What is the osmotic pressure of a 0.1 M NaCl solution at 25°C? (R = 0.0821 L·atm/mol·K, assume complete dissociation)",
+    "options": [
+      "4.92 atm",
+      "2.46 atm",
+      "0.82 atm",
+      "5.64 atm"
+    ],
+    "answer": "4.92 atm",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3046,
+    "question": "What is the mole fraction of a solute in a solution containing 2 moles of solute and 8 moles of solvent?",
+    "options": [
+      "0.2",
+      "0.8",
+      "0.25",
+      "0.75"
+    ],
+    "answer": "0.2",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 3047,
+    "question": "Which graph represents an exothermic reaction?",
+    "options": [
+      "Energy of products < Energy of reactants",
+      "Energy of products > Energy of reactants",
+      "No change in energy",
+      "Energy remains constant"
+    ],
+    "answer": "Energy of products < Energy of reactants",
+    "topic": "Physical Chemistry"
+  },
+  {
+    "id": 4000,
+    "options": [
+      "Weber",
+      "Tesla",
+      "Henry",
+      "Farad"
+    ],
+    "answer": "Weber",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4001,
+    "options": [
+      "Snell's law",
+      "Newton's law",
+      "Law of reflection",
+      "Huygens' principle"
+    ],
+    "answer": "Law of reflection",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4002,
+    "options": [
+      "cos(x)",
+      "-cos(x)",
+      "-sin(x)",
+      "sec(x)"
+    ],
+    "answer": "cos(x)",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4003,
+    "options": [
+      "Reflection",
+      "Diffraction",
+      "Interference",
+      "Refraction"
+    ],
+    "answer": "Diffraction",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4004,
+    "options": [
+      "x² + y² = 5",
+      "x² + y² = 25",
+      "x² - y² = 5",
+      "x² - y² = 25"
+    ],
+    "answer": "x² + y² = 25",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4005,
+    "options": [
+      "Magnitude",
+      "Direction",
+      "Projection",
+      "Cross product"
+    ],
+    "answer": "Projection",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4006,
+    "options": [
+      "6 kg·m/s",
+      "3 kg·m/s",
+      "2 kg·m/s",
+      "12 kg·m/s"
+    ],
+    "answer": "6 kg·m/s",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4007,
+    "options": [
+      "180°",
+      "360°",
+      "90°",
+      "270°"
+    ],
+    "answer": "180°",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4008,
+    "options": [
+      "Infinity",
+      "Zero",
+      "1",
+      "Depends on the object"
+    ],
+    "answer": "Infinity",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4009,
+    "options": [
+      "Proton",
+      "Electron",
+      "Neutron",
+      "Photon"
+    ],
+    "answer": "Electron",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4010,
+    "options": [
+      "1",
+      "0",
+      "sinθ",
+      "cosθ"
+    ],
+    "answer": "1",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4011,
+    "options": [
+      "Diffraction",
+      "Total internal reflection",
+      "Interference",
+      "Refraction"
+    ],
+    "answer": "Total internal reflection",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4012,
+    "options": [
+      "x³/3",
+      "3x³",
+      "x²",
+      "2x³"
+    ],
+    "answer": "x³/3",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4013,
+    "options": [
+      "330 m/s",
+      "300 m/s",
+      "400 m/s",
+      "280 m/s"
+    ],
+    "answer": "330 m/s",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4014,
+    "options": [
+      "1",
+      "2",
+      "1.5",
+      "3"
+    ],
+    "answer": "2",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4015,
+    "options": [
+      "μ₀I/2R",
+      "μ₀I/R",
+      "μ₀I/4πR²",
+      "μ₀I²/R"
+    ],
+    "answer": "μ₀I/2R",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4016,
+    "options": [
+      "A vector with magnitude 1",
+      "A vector with magnitude 0",
+      "A vector with arbitrary magnitude",
+      "A vector parallel to the original vector"
+    ],
+    "answer": "A vector with magnitude 1",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4017,
+    "options": [
+      "50 J",
+      "25 J",
+      "5 J",
+      "100 J"
+    ],
+    "answer": "50 J",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4018,
+    "options": [
+      "Archimedes' principle",
+      "Bernoulli's principle",
+      "Pascal's law",
+      "Boyle's law"
+    ],
+    "answer": "Bernoulli's principle",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4019,
+    "options": [
+      "6.67 × 10⁻¹¹ N",
+      "6.67 × 10⁻⁹ N",
+      "1 N",
+      "9.8 N"
+    ],
+    "answer": "6.67 × 10⁻¹¹ N",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4020,
+    "options": [
+      "Ohm's law",
+      "Kirchhoff's law",
+      "Faraday's law",
+      "Ampere's law"
+    ],
+    "answer": "Ohm's law",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4021,
+    "options": [
+      "Watt",
+      "Joule",
+      "Newton",
+      "Volt"
+    ],
+    "answer": "Watt",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4022,
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "Undefined"
+    ],
+    "answer": "0",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4023,
+    "options": [
+      "11.2 km/s",
+      "7.9 km/s",
+      "9.8 m/s",
+      "12.5 km/s"
+    ],
+    "answer": "11.2 km/s",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4024,
+    "options": [
+      "4 Ω",
+      "9 Ω",
+      "18 Ω",
+      "3 Ω"
+    ],
+    "answer": "4 Ω",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4025,
+    "options": [
+      "Refraction",
+      "Scattering",
+      "Diffraction",
+      "Interference"
+    ],
+    "answer": "Scattering",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4026,
+    "options": [
+      "Horizontal velocity",
+      "Vertical velocity",
+      "Total velocity",
+      "Acceleration"
+    ],
+    "answer": "Horizontal velocity",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4027,
+    "options": [
+      "1/s",
+      "s",
+      "1",
+      "0"
+    ],
+    "answer": "1/s",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4028,
+    "options": [
+      "0°",
+      "90°",
+      "45°",
+      "180°"
+    ],
+    "answer": "90°",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4029,
+    "options": [
+      "e^x",
+      "1",
+      "ln(x)",
+      "x"
+    ],
+    "answer": "e^x",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4030,
+    "options": [
+      "5 N/m²",
+      "20 N/m²",
+      "10 N/m²",
+      "2 N/m²"
+    ],
+    "answer": "5 N/m²",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4031,
+    "options": [
+      "Principal",
+      "Azimuthal",
+      "Magnetic",
+      "Spin"
+    ],
+    "answer": "Azimuthal",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4032,
+    "options": [
+      "a + (n-1)d",
+      "a × (n-1)d",
+      "a + nd",
+      "a × nd"
+    ],
+    "answer": "a + (n-1)d",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4033,
+    "options": [
+      "Concave lens",
+      "Convex lens",
+      "Cylindrical lens",
+      "Bifocal lens"
+    ],
+    "answer": "Concave lens",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4034,
+    "options": [
+      "Rectification",
+      "Amplification",
+      "Oscillation",
+      "Signal Modulation"
+    ],
+    "answer": "Rectification",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4035,
+    "options": [
+      "6.63 × 10⁻³⁴ J·s",
+      "9.8 m/s²",
+      "3 × 10⁸ m/s",
+      "1.6 × 10⁻¹⁹ C"
+    ],
+    "answer": "6.63 × 10⁻³⁴ J·s",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4036,
+    "options": [
+      "Square root of length",
+      "Length",
+      "Mass of the bob",
+      "Amplitude"
+    ],
+    "answer": "Square root of length",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4037,
+    "options": [
+      "Zero",
+      "Magnitude of the vectors",
+      "One",
+      "Infinity"
+    ],
+    "answer": "Zero",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4038,
+    "options": [
+      "3 × 10⁸ m/s",
+      "2.99 × 10⁸ m/s",
+      "1.5 × 10⁸ m/s",
+      "1.0 × 10⁸ m/s"
+    ],
+    "answer": "3 × 10⁸ m/s",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4039,
+    "options": [
+      "sin(ωt)",
+      "e^x",
+      "ln(x)",
+      "1/x"
+    ],
+    "answer": "sin(ωt)",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4040,
+    "options": [
+      "1/2 mv²",
+      "mv",
+      "mgh",
+      "F × d"
+    ],
+    "answer": "1/2 mv²",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4041,
+    "options": [
+      "1.6 m/s²",
+      "9.8 m/s²",
+      "6.67 m/s²",
+      "3.8 m/s²"
+    ],
+    "answer": "1.6 m/s²",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4042,
+    "options": [
+      "The angle of incidence must exceed the critical angle",
+      "The angle of reflection must exceed the critical angle",
+      "The refractive index must be 1",
+      "The medium must be air"
+    ],
+    "answer": "The angle of incidence must exceed the critical angle",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4043,
+    "options": [
+      "5 F",
+      "10 F",
+      "2 F",
+      "20 F"
+    ],
+    "answer": "5 F",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4044,
+    "options": [
+      "Newton's Third Law",
+      "Law of Conservation of Energy",
+      "Law of Inertia",
+      "Hooke's Law"
+    ],
+    "answer": "Newton's Third Law",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4045,
+    "options": [
+      "180°",
+      "360°",
+      "90°",
+      "270°"
+    ],
+    "answer": "180°",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4046,
+    "options": [
+      "1",
+      "0",
+      "2",
+      "0.5"
+    ],
+    "answer": "1",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4047,
+    "options": [
+      "1 second",
+      "0.5 seconds",
+      "2 seconds",
+      "1.5 seconds"
+    ],
+    "answer": "1 second",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4048,
+    "options": [
+      "1/x",
+      "x",
+      "ln(x)",
+      "e^x"
+    ],
+    "answer": "1/x",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4049,
+    "options": [
+      "Pascal's Principle",
+      "Bernoulli's Principle",
+      "Archimedes' Principle",
+      "Newton's Third Law"
+    ],
+    "answer": "Pascal's Principle",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4050,
+    "options": [
+      "Weber",
+      "Tesla",
+      "Henry",
+      "Farad"
+    ],
+    "answer": "Weber",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4051,
+    "options": [
+      "Speed",
+      "Velocity",
+      "Acceleration",
+      "Kinetic Energy"
+    ],
+    "answer": "Speed",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4052,
+    "options": [
+      "Net force and net torque are zero",
+      "Net force is zero only",
+      "Net torque is zero only",
+      "Acceleration is zero"
+    ],
+    "answer": "Net force and net torque are zero",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4053,
+    "options": [
+      "8",
+      "2",
+      "10",
+      "18"
+    ],
+    "answer": "8",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4054,
+    "options": [
+      "0°",
+      "90°",
+      "45°",
+      "180°"
+    ],
+    "answer": "0°",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4055,
+    "options": [
+      "Zero",
+      "Maximum",
+      "Minimum",
+      "Infinite"
+    ],
+    "answer": "Zero",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4056,
+    "options": [
+      "Charge density",
+      "Electric potential",
+      "Magnetic flux",
+      "Energy density"
+    ],
+    "answer": "Charge density",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4057,
+    "options": [
+      "v²/g",
+      "v²/2g",
+      "2v²/g",
+      "v/g"
+    ],
+    "answer": "v²/g",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4058,
+    "options": [
+      "rad/s",
+      "m/s",
+      "Hz",
+      "N·m"
+    ],
+    "answer": "rad/s",
+    "topic": "Physics and Mathematics"
+  },
+  {
+    "id": 4059,
+    "options": [
+      "Zero",
+      "Constant",
+      "Varies with radius",
+      "Infinite"
+    ],
+    "answer": "Zero",
+    "topic": "Physics and Mathematics"
+  }
+]
